@@ -2,10 +2,7 @@ _Read in English: [English](README.md)._
 
 # Representação de um Herói Genérico
 
-# Representation of a Generic Hero
-
 Neste projeto eu desenvolvi uma classe genérica para representar um herói de uma aventura.
-In this project I developed a generic class to represent a hero in an adventure
 
 ## Início Rápido
 
